@@ -1,2 +1,2 @@
 # Cpp
- Just random little C++ programs for practice purposes
+ Just random C++ programs for practice purposes
